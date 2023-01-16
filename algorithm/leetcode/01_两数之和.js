@@ -20,8 +20,7 @@ var twoSum_luffyZh = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
       var left = target - nums[i];
       if (typeof temp[left] !== 'undefined') {
-          console.log([temp[right], i]);
-          return [temp[right], i];
+          return [temp[left], i];
       }
       temp[nums[i]] = i;
   }
