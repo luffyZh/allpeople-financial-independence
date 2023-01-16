@@ -1,27 +1,3 @@
-# allpeople-financial-independence
-
-愿所有朋友都能早日财富自由。
-
-## 项目介绍
-
-```
-|----
-  |---- algorithm          // 算法相关
-    |---- leetcode         // LeetCode 相关算法问题
-    |---- others           // 其他渠道算法题
-  |---- interview          // 面试题相关
-    |---- JavaScript       // JS 相关面试题
-    |---- CSS              // CSS 相关面试题
-    |---- HTML             // HTML 相关面试题
-```
-
-## 如何贡献
-
-### 算法
-
-项目仓库 `/algorithm/leetcode/01_两数之和.js` 里面有完整示例如下：
-
-```js
 /**
  * @title 两数之和
  * @link https://leetcode.cn/problems/two-sum/
@@ -56,8 +32,3 @@ twoSum_luffyZh([2,7,11,15], 9);
 /**
  * 其他人的答案，可以参考如上形式进行添加
  */
-```
-
-### 面试题
-
-可以通过 PR，管理员会辅助合并进去，可以参考 `/interview/JavaScript/20230116_作用域` 进行提交，**争取一天一道题。**
